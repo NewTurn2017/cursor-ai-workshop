@@ -1,0 +1,11 @@
+{
+  "serviceName": "OB Secure Access Portal",
+  "incidentStart": "2026-04-01T09:02:00+09:00",
+  "impactScope": "일부 지사 사용자의 재인증 및 접속 지연",
+  "suspectedCause": "인증 프록시 노드 편중과 세션 재시도 급증",
+  "temporaryAction": "우회 라우팅 적용 및 세션 재시도 제한",
+  "nextUpdateAt": "2026-04-01T09:40:00+09:00",
+  "internalTone": "명확하고 짧게",
+  "customerTone": "불안감을 줄이고 다음 조치를 분명히 안내",
+  "executiveTone": "영향 범위와 대응 현황 중심으로 3줄 요약"
+}
